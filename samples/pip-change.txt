@@ -1,0 +1,1 @@
+python-ironicclient 1.12.0 has requirement requests!=2.12.2,!=2.13.0,>=2.10.0, but you have requests 2.13.0.

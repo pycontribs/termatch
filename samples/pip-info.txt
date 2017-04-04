@@ -1,0 +1,1 @@
+Requirement already satisfied: ipaddress>=1.0.7; python_version < "3.3" in /usr/lib/python2.7/site-packages (from shade>=1.19)

@@ -1,0 +1,5 @@
+^remote: .*
+^.*([\[\s]+(DEBUG)[:]?.*)
+^\+.*
+^.*((INFO|TASK)[\s\t]?.*)$
+(?i)^(#|\* |info|notice|remote|hint|debug[123]?).*

@@ -1,0 +1,2 @@
+^Write failed: Broken pipe.*
+(?i)^.*(\[*(warning|warn|\(W\))[^"]*)$

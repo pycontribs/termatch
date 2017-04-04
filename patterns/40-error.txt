@@ -1,0 +1,2 @@
+(?i)^(error|err|fatal|abort|E):.*
+(?i)^.*((crit|error|severe|fatal|panic|abort|errors|critical)[:\]]?[\s\t][^0].*)
